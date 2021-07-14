@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.530accee.chunk.js",
-    "main.js.map": "/static/js/main.530accee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.05f9b2de.js",
-    "runtime-main.js.map": "/static/js/runtime-main.05f9b2de.js.map",
-    "static/js/2.7cf887b3.chunk.js": "/static/js/2.7cf887b3.chunk.js",
-    "static/js/2.7cf887b3.chunk.js.map": "/static/js/2.7cf887b3.chunk.js.map",
-    "static/js/3.4dda716d.chunk.js": "/static/js/3.4dda716d.chunk.js",
-    "static/js/3.4dda716d.chunk.js.map": "/static/js/3.4dda716d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.7cf887b3.chunk.js.LICENSE.txt": "/static/js/2.7cf887b3.chunk.js.LICENSE.txt"
+    "main.css": "/Bubble-Sort-Illustration-with-Reactjs/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Bubble-Sort-Illustration-with-Reactjs/static/js/main.530accee.chunk.js",
+    "main.js.map": "/Bubble-Sort-Illustration-with-Reactjs/static/js/main.530accee.chunk.js.map",
+    "runtime-main.js": "/Bubble-Sort-Illustration-with-Reactjs/static/js/runtime-main.c7948ba2.js",
+    "runtime-main.js.map": "/Bubble-Sort-Illustration-with-Reactjs/static/js/runtime-main.c7948ba2.js.map",
+    "static/js/2.7cf887b3.chunk.js": "/Bubble-Sort-Illustration-with-Reactjs/static/js/2.7cf887b3.chunk.js",
+    "static/js/2.7cf887b3.chunk.js.map": "/Bubble-Sort-Illustration-with-Reactjs/static/js/2.7cf887b3.chunk.js.map",
+    "static/js/3.4dda716d.chunk.js": "/Bubble-Sort-Illustration-with-Reactjs/static/js/3.4dda716d.chunk.js",
+    "static/js/3.4dda716d.chunk.js.map": "/Bubble-Sort-Illustration-with-Reactjs/static/js/3.4dda716d.chunk.js.map",
+    "index.html": "/Bubble-Sort-Illustration-with-Reactjs/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Bubble-Sort-Illustration-with-Reactjs/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7cf887b3.chunk.js.LICENSE.txt": "/Bubble-Sort-Illustration-with-Reactjs/static/js/2.7cf887b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05f9b2de.js",
+    "static/js/runtime-main.c7948ba2.js",
     "static/js/2.7cf887b3.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.530accee.chunk.js"
